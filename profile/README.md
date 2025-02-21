@@ -4,7 +4,7 @@
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCure0tGrOmiqY7vtiLEYT_Q?label=YouTube)](https://www.youtube.com/@sparkonsoftware)
 
 ## 📖 Sobre
-Bem-vindo ao GitHub da Sparkon Software! Aqui gostamos de desenvolver sistemas para automações de marketing e criação de conteúdo, sempre pensando na experiencia do cliente. Também fazemos motores de renderização, API's, jogos e páginas de vendas.
+Bem-vindo ao GitHub da Sparkon Software! Aqui gostamos de desenvolver sites em NextJS e sistemas para automações de marketing e criação de conteúdo, sempre pensando na experiencia do cliente. Também fazemos motores de renderização, API's, jogos e páginas de vendas.
 
 🤖 Desenvolvemos principalmente automações privadas usando Selenium.
 

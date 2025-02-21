@@ -2,6 +2,7 @@
 <img src="https://sparkonsoftware.com/wp-content/uploads/2022/12/Logo-768x170.webp" alt="Sparkon Software" title="Capa com a logo da Sparkon Software" style="width: 100%;">
 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCure0tGrOmiqY7vtiLEYT_Q?label=YouTube)](https://www.youtube.com/@sparkonsoftware)
+[![Site oficial](https://img.shields.io/badge/Site_oficial-Sparkon_Software-blue)](https://sparkonsoftware.com)
 
 ## 📖 Sobre
 Bem-vindo ao GitHub da Sparkon Software! Aqui gostamos de desenvolver sites em NextJS e sistemas para automações de marketing e criação de conteúdo, sempre pensando na experiencia do cliente. Também fazemos motores de renderização, API's, jogos e páginas de vendas.
